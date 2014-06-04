@@ -22,6 +22,7 @@ public class Stomach {
 //		/* Exercise 2 : add your food */
 //		foodsInside.add(new ChaShaoBao());
 //		foodsInside.add(new DanDanMian());
+		foodsInside.add(new DanDanMian());
 	}
 	@Override
 	public String toString() {
