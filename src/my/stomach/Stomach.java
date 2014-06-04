@@ -16,6 +16,9 @@ public class Stomach {
 	
 	public Stomach() {
 		foodsInside.add(new Pizza());
+		// I'm so hungry, I've eaten 2 more pizzas!
+		foodsInside.add(new Pizza());
+		foodsInside.add(new Pizza());
 		/* Exercise 2 : add your food */
 	}
 	@Override
