@@ -17,11 +17,11 @@ public class Stomach {
 	public Stomach() {
 		foodsInside.add(new Pizza());
 		// I'm so hungry, I've eaten 2 more pizzas!
-		foodsInside.add(new Pizza());
-		foodsInside.add(new Pizza());
-		/* Exercise 2 : add your food */
-		foodsInside.add(new ChaShaoBao());
-		foodsInside.add(new DanDanMian());
+//		foodsInside.add(new Pizza());
+//		foodsInside.add(new Pizza());
+//		/* Exercise 2 : add your food */
+//		foodsInside.add(new ChaShaoBao());
+//		foodsInside.add(new DanDanMian());
 	}
 	@Override
 	public String toString() {
