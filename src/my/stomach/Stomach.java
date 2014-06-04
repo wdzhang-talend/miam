@@ -20,7 +20,7 @@ public class Stomach {
 //		foodsInside.add(new Pizza());
 //		foodsInside.add(new Pizza());
 //		/* Exercise 2 : add your food */
-//		foodsInside.add(new ChaShaoBao());
+ 		foodsInside.add(new ChaShaoBao());
 //		foodsInside.add(new DanDanMian());
 	}
 	@Override
