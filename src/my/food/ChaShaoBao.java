@@ -5,6 +5,12 @@ import java.util.List;
 
 
 public class ChaShaoBao implements Food {
+	
+	public ChaShaoBao(){
+		ingredients.add("pork");
+		ingredients.add("oyster sauce");
+		ingredients.add("bread");
+	}
 
 	List<String> ingredients = new ArrayList<String>();
 	
